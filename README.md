@@ -2,32 +2,13 @@
 
 ## Sobre:
 
-Graduado em Ciência da Computação e Pós graduado em Finanças (IBMEC) e Big Data - Engenharia de Dados (INFNET) sigo aprimorando meus conhecimentos técnicos, sem perder de vista os Power Skills, cada vez mais importantes no mundo atual, como comunicação, criatividade, pensamento crítico, resiliência, entre outros. 
+Sou um engenheiro de dados, com mais de 15 anos de experiência em TI, atuando em diferentes áreas, como desenvolvimento de software, business intelligence, inovação, transformação digital e ciência de dados. 
 
-Power Skills: Resiliência, pensamento crítico, comunicação.
+Possuo pós-graduação em Engenharia de Dados pelo Instituto INFNET e em Finanças pelo IBMEC, além de diversos cursos em Data Science, Big Data e Inteligência Artificial.
 
-Principais atividades/soluções trabalhadas:
-- Desenvolvimento de Data Lake e Data Warehouse.
-- Desenvolvimento em Databricks para processamento massivo de dados. 
-- Pipelines de dados com Azure Data Factory.
-- Pipelines de dados com AWS Glue.
-- Desenvolvimento de Lambdas com engine Python.
-- Soluções de ETL.
-- Ecossistema Hadoop (HBase, Hive, Sqoop, Flume, Spark).
-- Search engine com Elastic Search (ELK stack).
-- Transformação e manipulação massiva de dados com Pandas, PySpark e Google BigQuery.
-- Data Viz com Matplotlib, Seaborn e Plotly.
-- Data Ingestion Realtime e Batch.
-- Data Modeling SQL e NoSQL.
-- Databases MongoDB, CosmosDB, Oracle, SQL Server, MySQL, MariaDB, PostgresSQL, Redis, SQlite, Cassandra, Delta Tables.
-- Desenvolvimento de Aplicações Java utilizando os Frameworks: Struts, Spring, Hibernate, JSF e Servidores de Aplicação: TomCat, Jboss e WildFly.
+Meu objetivo é analisar e resolver problemas de negócio por meio da criação de soluções de dados eficientes, escaláveis e confiáveis, utilizando as melhores ferramentas e técnicas disponíveis no mercado. 
 
-Busco reciclagem continua em novas tecnologias e tendências, 20+ anos de experiência atuando em TI.
+Tenho conhecimento e experiência em modelagem de dados relacionais e não relacionais, processamento de Big Data usando Python e Spark, soluções em cloud Azure e AWS, pipelines de dados com Data Factory, Glue e Lambda, ecossistema Hadoop, Elastic Search, Pandas, PySpark, Google BigQuery, entre outras. 
 
-Áreas de Interesse:
-- Arquitetura de Soluções.
-- Arquitetura e Engenharia de Dados
-- Finanças
-- Integração de Sistemas
-- Inovação e Transformação Digital
+Busco reciclagem contínua em novas tecnologias e tendências, além disso procuro evoluir meus power skills como: comunicação, criatividade, pensamento crítico, resiliência, entre outros.
 
