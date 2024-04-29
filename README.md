@@ -1,6 +1,8 @@
-### Sobre mim:
+### Bem vindo! 
 
-Graduado em Ciência da Computação e Pós graduado em Finanças (IBMEC) e Big Data - Engenharia de Dados (Infnet) sigo aprimorando meus conhecimentos técnicos, sem perder de vista os Power Skills, cada vez mais importantes no mundo atual, como comunicação, criatividade, pensamento crítico, resiliência, entre outros. 
+## Sobre:
+
+Graduado em Ciência da Computação e Pós graduado em Finanças (IBMEC) e Big Data - Engenharia de Dados (INFNET) sigo aprimorando meus conhecimentos técnicos, sem perder de vista os Power Skills, cada vez mais importantes no mundo atual, como comunicação, criatividade, pensamento crítico, resiliência, entre outros. 
 
 Power Skills: Resiliência, pensamento crítico, comunicação.
 
@@ -25,6 +27,7 @@ Busco reciclagem continua em novas tecnologias e tendências, 20+ anos de experi
 Áreas de Interesse:
 - Arquitetura de Soluções.
 - Arquitetura e Engenharia de Dados
+- Finanças
 - Integração de Sistemas
 - Inovação e Transformação Digital
-- Finanças
+
